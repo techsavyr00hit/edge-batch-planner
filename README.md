@@ -1,4 +1,3 @@
-<!-- day 1 - README title and overview -->
 # Policy-Constrained Edge Batch Admission Window Planner
 
 An independent, Kubernetes-native **planning and analysis engine** that ranks future time windows in which a batch workload can safely be admitted to a cloud or edge cluster.
