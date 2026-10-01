@@ -1,4 +1,3 @@
-// day 1 - repo bootstrap
 module github.com/roohitkathiresan/policy-constrained-edge-batch-admission-window-planner
 
 go 1.24
